@@ -6,10 +6,20 @@
     <description>Recent content on 陈国灿的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Tue, 16 Jun 2020 16:49:41 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 17:04:58 +0800</lastBuildDate>
     
 	<atom:link href="https://chenguocan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>作业</title>
+      <link>https://chenguocan.github.io/posts/%E4%BD%9C%E4%B8%9A/</link>
+      <pubDate>Tue, 16 Jun 2020 17:04:58 +0800</pubDate>
+      
+      <guid>https://chenguocan.github.io/posts/%E4%BD%9C%E4%B8%9A/</guid>
+      <description>关于如何搭建Hugo博客
+1.去Hugo官网下载hugo解压包; 2.解压下载的hugo解压包; 3.将hugo添加到电脑环境path中; 4.在hugo官网的帮助文档中按照文档的代码一步一步去操作。 5.步骤操作完会得到一个public文件，要创建一个.gitignore让public不用上传到github当中。 6.之后按照github上传的正常操作命令行。</description>
+    </item>
     
     <item>
       <title>第二篇博客</title>
