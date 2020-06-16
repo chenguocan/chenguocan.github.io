@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 陈国灿的博客</title>
-    <link>http://example.org/posts/</link>
+    <link>https://chenguocan.github.io/posts/</link>
     <description>Recent content in Posts on 陈国灿的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Tue, 16 Jun 2020 16:35:57 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 16:49:41 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chenguocan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>第二篇博客</title>
+      <link>https://chenguocan.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 16 Jun 2020 16:49:41 +0800</pubDate>
+      
+      <guid>https://chenguocan.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>这是我的第二个博客</description>
+    </item>
+    
+    <item>
       <title>Myfirstblog</title>
-      <link>http://example.org/posts/myfirstblog/</link>
+      <link>https://chenguocan.github.io/posts/myfirstblog/</link>
       <pubDate>Tue, 16 Jun 2020 16:35:57 +0800</pubDate>
       
-      <guid>http://example.org/posts/myfirstblog/</guid>
+      <guid>https://chenguocan.github.io/posts/myfirstblog/</guid>
       <description>我的第一篇博客</description>
     </item>
     
